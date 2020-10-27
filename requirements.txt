@@ -3,7 +3,7 @@ boto3==1.9.168
 botocore==1.12.168
 certifi==2019.3.9
 cffi==1.12.3
-cryptography==2.7
+cryptography==3.2
 docutils==0.14
 future==0.17.1
 jmespath==0.9.4
